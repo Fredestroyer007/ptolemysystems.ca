@@ -1,2 +1,2 @@
 # Website @ ptolemysystems.ca
-Small website for Ptolemy Systems
+Small website for Ptolemy Systems - WIP
